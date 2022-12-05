@@ -6,7 +6,7 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno1013&show_icons=true&theme=synthwave )
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno1013&layout=compact&theme=synthwave)](https://github.com/bruno1013/github-readme-stats)
 
 
 <!---
