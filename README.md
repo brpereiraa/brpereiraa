@@ -12,6 +12,13 @@
   <img height="160em" src="https://github.com/bruno1013/bruno1013/blob/output/github-contribution-grid-snake.svg"/>    
 </div>
 
+div align="center">
+   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+   <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg)" />
+   <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+</div>
 
 <!---
 Bruno1013/Bruno1013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
