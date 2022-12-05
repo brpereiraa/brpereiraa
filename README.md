@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&box_width=11)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno1013&layout=compact&theme=synthwave)](https://github.com/bruno1013/github-readme-stats)
 <img height=400 width=400 src[="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=bruno1013&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=bruno1013&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only)" alt="Rick Staa's Language stats" />
 
