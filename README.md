@@ -1,4 +1,5 @@
 # 👋 Hi, welcome
+### 🏡 Porto, Portugal
 ### ⚡ Favorite Languages: Java & PHP
 ### 🌱 I’m currently learning Java & React
 ### 📫 How to reach me: <a href="https://github.com/bruno1013">LinkedIn</a>
