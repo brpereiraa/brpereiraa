@@ -1,12 +1,12 @@
 # 👋 Hi, welcome
 ### Favorite Languages: Java & PHP
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently trying to learn new languages such as React & C while trying to further understand Java & PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 
 <div align="center">
-  <a href="https://github.com/DiogoReiss">
+  <a href="https://github.com/bruno1013">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=bruno1013&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno1013&layout=compact&langs_count=7&theme=radical"/>
   <img height="160em" src="https://github.com/bruno1013/bruno1013/blob/output/github-contribution-grid-snake.svg"/>    
