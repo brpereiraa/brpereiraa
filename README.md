@@ -12,7 +12,7 @@
   <img height="160em" src="https://github.com/bruno1013/bruno1013/blob/output/github-contribution-grid-snake.svg"/>    
 </div>
 
-div align="center">
+<div align="center">
    <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
    <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
    <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
