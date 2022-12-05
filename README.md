@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno1013&show_icons=true&theme=tokyonight)
 
 <!---
 Bruno1013/Bruno1013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
