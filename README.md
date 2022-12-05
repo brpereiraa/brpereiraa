@@ -5,8 +5,11 @@
 - 📫 How to reach me ...
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&box_width=9)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno1013&layout=compact&theme=synthwave)](https://github.com/bruno1013/github-readme-stats)
+<div align="center">
+  <a href="https://github.com/DiogoReiss">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bruno1013&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bruno1013&layout=compact&langs_count=7&theme=cobalt"/>
+</div>
 
 
 <!---
