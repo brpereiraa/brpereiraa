@@ -1,8 +1,7 @@
 # 👋 Hi, welcome
 ### Favorite Languages: Java & PHP
-- 🌱 I’m currently trying to learn new languages such as React & C while trying to further understand Java & PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### 🌱 I’m currently learning Java & React
+### 📫 How to reach me ...
 
 
 <div align="center">
