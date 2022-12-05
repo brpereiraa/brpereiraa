@@ -5,7 +5,7 @@
 - 📫 How to reach me ...
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno1013&show_icons=true&theme=synthwave )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bruno1013&show_icons=true&theme=synthwave&layout=compact )
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno1013&layout=compact&theme=synthwave)](https://github.com/bruno1013/github-readme-stats)
 
 
