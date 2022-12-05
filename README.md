@@ -1,7 +1,7 @@
 # 👋 Hi, welcome
-### Favorite Languages: Java & PHP
+### ⚡ Favorite Languages: Java & PHP
 ### 🌱 I’m currently learning Java & React
-### 📫 How to reach me ...
+### 📫 How to reach me: <a href="https://github.com/bruno1013">LinkedIn</a>
 
 
 <div align="center">
