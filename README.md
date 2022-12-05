@@ -7,7 +7,7 @@
 
 <img height=400 width=400 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=bruno1013&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only" alt="Rick Staa's Language stats" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno1013&layout=compact&theme=synthwave)](https://github.com/bruno1013/github-readme-stats)
-
+<img height=400 width=400 src[="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=bruno1013&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=bruno1013&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=dark#gh-dark-mode-only)" alt="Rick Staa's Language stats" />
 
 <!---
 Bruno1013/Bruno1013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
