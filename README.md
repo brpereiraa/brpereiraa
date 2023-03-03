@@ -3,6 +3,7 @@
 ### ⚡ Favorite Languages: Java & PHP
 ### 🌱 I’m currently learning Java, React & C
 ### 📫 How to reach me: <a href="https://github.com/bruno1013">LinkedIn</a>
+### 📝 42 Intra username: Brpereir
 
 
 <div align="center">
