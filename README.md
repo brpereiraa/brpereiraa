@@ -1,9 +1,10 @@
 # 👋 Hi, welcome
 ### 🏡 Porto, Portugal
 ### ⚡ Favorite Languages: Java & PHP
-### 🌱 I’m currently learning Java, React & C
-### 📫 How to reach me: <a href="https://github.com/bruno1013">LinkedIn</a>
+### 🌱 I’m currently learning Java, React & 
 ### 📝 42 Intra username: Brpereir
+### 📫 How to reach me: <a href="https://github.com/bruno1013">LinkedIn</a>
+
 
 
 <div align="center">
