@@ -10,7 +10,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brpereiraa&layout=compact&langs_count=7&theme=radical"/>
   <img height="160em" src="https://github.com/brpereiraa/brpereiraa/blob/output/github-contribution-grid-snake.svg"/>    
 </div>
-### 
+
 <div align="center">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
