@@ -13,16 +13,11 @@
 
 ---
   
-<div align="center">
-  <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
-  <img align="center" alt="HTML5" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
-  <img align="center" alt="JS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Elixir" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-  <img align="center" alt="Figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
-  <img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" />
-  <img align="center" alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
-  <img align="center" alt="Bootstrap" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" />
-</div>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,nodejs,react,angular,electron,c,spring,mysql,mongodb,aws" />
+  </a>
+</p>
 
 <!---
 Bruno1013/Bruno1013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
