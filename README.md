@@ -16,7 +16,7 @@
 ---
 
 <div align="center>
-  <a allign = "left" href="https://github.com/JaeSeoKim/badge42"><img width="50%" src="https://badge42.vercel.app/api/v2/clhi72xpd008808i9vc46ez3o/stats?cursusId=21&coalitionId=237" alt="42 Stats"/>
+  <a allign = "left" href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clhi72xpd008808i9vc46ez3o/stats?cursusId=21&coalitionId=237" alt="42 Stats"/>
 </div>
 
 <!---
