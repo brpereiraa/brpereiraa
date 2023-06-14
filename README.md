@@ -13,6 +13,12 @@
   </a>
 </p>
 
+---
+
+<div align="center>
+  <a allign = "left" href="https://github.com/JaeSeoKim/badge42"><img width="50%" src="https://badge42.vercel.app/api/v2/clhi72xpd008808i9vc46ez3o/stats?cursusId=21&coalitionId=237" alt="42 Stats"/>
+</div>
+
 <!---
 Bruno1013/Bruno1013 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
