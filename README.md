@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/IntelliJ-DD1100?style=for-the-badge&logo=IntelliJ IDEA&logoColor=FFFFFF" alt="IntelliJ">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
 </div>
 
 <br>
